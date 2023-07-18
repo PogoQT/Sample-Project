@@ -1,2 +1,2 @@
 # Sample-Project
-Some of my project which I created in my free time
+These are UI/UX projects or samples which I created in my free time
